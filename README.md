@@ -1,4 +1,4 @@
 # AI
 Berkeley pac-man projects
 
-Contains the solutions for project 0,1,2
+Contains the solutions for projects 0,1,2
